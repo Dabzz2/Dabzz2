@@ -3,7 +3,7 @@
 - 👀 I’m interested in ...
     - DeFi
     - Automation
-    - Data analysis
+    - Data analytics
     - Boomer stocks
     
     
@@ -14,6 +14,7 @@
       
 - 🤩 I’m looking to collaborate on ...
     - Fun projects, which will evolve my programming skills and hopefully form new friendships.
+    - Looking for DeFi projects which need developers, on part time.
 
 - 📫 How to reach me ...
     - Telegram: @DrugDabzz
