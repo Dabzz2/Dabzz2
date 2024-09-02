@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @Dabzz2
 
-- 👀 I’m currently studying an master in Economics...
+- I’m currently employed @
+- Ahlsell Denmark
+      - Student assistant in Finance & BI
+
+- 👨‍🎓 I’m currently studying an masters in Economics...
     - Econometrics
     - Micro- & Macroeconomics
     - AI & ML
@@ -26,6 +30,11 @@
 - 📫 How to reach me ...
     - Discord: Dabz#0086
     
+
+- 👨🏻‍💻 Previous code work ...
+    - Did python automation at Østergaards Biler, this included Pandas, Beautifulsoup and others.
+
+
 
 <!---
 Dabzz2/Dabzz2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
