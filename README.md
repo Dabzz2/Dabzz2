@@ -17,7 +17,6 @@
     - Looking for DeFi projects which need developers, on part time.
 
 - 📫 How to reach me ...
-    - Telegram: @DrugDabzz
     - Discord: Dabz#0086
     
 
