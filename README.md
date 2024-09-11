@@ -32,9 +32,10 @@
     
 
 - 👨🏻‍💻 Previous code work ...
-    - Did python automation at Østergaards Biler, this included Pandas, Beautifulsoup and others.
+    - Did python automation at a larger transportation firm, this included Pandas, Beautifulsoup and others.
 
-
+- 🤗 Hugging Face 
+      - https://huggingface.co/Chri12345
 
 <!---
 Dabzz2/Dabzz2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
